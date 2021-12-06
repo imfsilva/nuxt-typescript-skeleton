@@ -3,7 +3,7 @@ version: '3'
 services:
   nuxt:
     environment:
-      - API_URL=https://name-web.zapp.dev
+      - API_URL=
     ports:
       - 3000:3000
     command: npm run dev

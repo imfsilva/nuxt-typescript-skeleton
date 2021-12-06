@@ -1,4 +1,4 @@
-# nuxt-typescript-template
+# nuxt-typescript-skeleton
 
 Run project with docker in development mode:
 

@@ -1,7 +1,7 @@
 {
-  "name": "primafrio-external-journeys",
+  "name": "app-name",
   "version": "1.0.0",
-  "private": true,
+  "author": "Fabio Silva | itsnesky@icloud.com",
   "scripts": {
     "dev": "nuxt-ts",
     "build": "nuxt-ts build",
@@ -43,6 +43,7 @@
   },
   "prettier": {
     "semi": false,
+    "printWidth": 120,
     "trailingComma": "none",
     "singleQuote": true,
     "endOfLine": "auto"
